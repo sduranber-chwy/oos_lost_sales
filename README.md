@@ -9,7 +9,7 @@ Make sure you have your odbc credentials set-up. If not, refer to [this guide](h
 Also check for Snowflake access, as it is used in part of this project.
 
 #### Install Dependencies
-Install the following modules before setting up the connections. They are included in the requirements text file.
+Install the modules included in the requirements text file before setting up the connections..
 
 ## 2. Description of Folders
 - summary_results: It contains all the outputs, including images, word documents, and summaries of the model resuls
