@@ -16,7 +16,7 @@ Install the following modules before setting up the connections. They are includ
 - queries: It ontains the queries used in the main analysis
 - notebooks: It contains the notebooks created
 - lost: It contains the python files for database connection
-- data: Folder for saving generated from queries and used in the notebooks. 
+- data: Folder for saving data generated from queries and used in the notebooks. 
 
 ## 3. Description of Variables Used
 | Variable | Description |
